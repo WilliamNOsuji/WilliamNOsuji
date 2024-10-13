@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I'm William Osuji 👋
-
-<br><br>I'm a passionate and motivated software developer currently pursuing an Integrated DEC in Computer Science at Collège Édouard-Montpetit. I love working on projects that challenge me to grow and improve my skills, from real-time multiplayer games to cloud-based applications.
+<br>I'm a passionate and motivated software developer currently pursuing an Integrated DEC in Computer Science at Collège Édouard-Montpetit. I love working on projects that challenge me to grow and improve my skills, from real-time multiplayer games to cloud-based applications.
 
 💻 Check out some of my projects below, like:<br>- **AirIsYourInfo** – Cloud-based environmental data application<br>- **JustAPlaneQuiz** – Fun quiz on aviation facts<br>- **Alien Invasion** – A space shooter game made with Python<br><br>
 
